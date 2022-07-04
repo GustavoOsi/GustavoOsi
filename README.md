@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoOsi
-- 👀 I’m interested in Data Science a
-- 🌱 I’m currently learning Data
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
